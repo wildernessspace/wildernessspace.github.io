@@ -2444,6 +2444,7 @@
                     }
                     this.ze[ka](n);
                     this.Bi(n);
+                    /*
                     this.Zi || (! function() {
                         var t, e;
                         Jc.f && ((e = mt[kn + zs + Yo](Jo))[lc + zs + S](B, function() { mu = pu; }), mu = !0, t = $s(function() {
@@ -2453,6 +2454,7 @@
                             }
                         }, 500));
                     }(), this.Zi = !!{});
+                    */
                 },
                 Pi: function() {
                     var t, e, i, r, o, s;
