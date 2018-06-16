@@ -1,2 +1,0 @@
-# wildernessspace.github.io
-Template
